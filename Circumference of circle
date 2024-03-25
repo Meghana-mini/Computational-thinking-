@@ -1,0 +1,6 @@
+function circumference_of_circle(radius){
+        let circumference=2*3.14*radius;
+        return circumference;
+}
+let res=circumference_of_circle(7);
+console.log(res);
