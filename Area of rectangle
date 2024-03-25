@@ -1,0 +1,6 @@
+function area_of_rectangle(len,bre){
+         let area=len*bre;
+         return area;
+}
+let res=area_of_rectangle(5,6);
+console.log(res)
