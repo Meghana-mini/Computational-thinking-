@@ -1,0 +1,6 @@
+function area_of_square(side){
+       let area=side*side;
+       return area;
+}
+let res=area_of_square(6);
+console.log(res);
