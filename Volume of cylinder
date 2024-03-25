@@ -1,0 +1,6 @@
+function volume_of_cylinder(radius, height){
+         let volume=3.14*(radius**2)*height;
+         return volume;
+}
+let res=volume_of_cylinder(6,7);
+console.log(res);
