@@ -1,0 +1,6 @@
+function perimeter_of_rectangle(len,wid){
+         let perimeter=2*(len+wid);
+         return perimeter;
+}
+let res=perimeter_of_rectangle(10,5);
+console.log(res);
