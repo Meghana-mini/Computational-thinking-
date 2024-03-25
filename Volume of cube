@@ -1,0 +1,6 @@
+function volume_of_cube(side){
+        let volume=side*side*side;
+        return volume;
+}
+let res=volume_of_cube(5);
+console.log(res);
