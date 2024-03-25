@@ -1,0 +1,6 @@
+function perimeter_of_square(side){
+        let perimeter=4*side;
+        return perimeter;
+}
+let res=perimeter_of_square(5);
+console.log(res);
