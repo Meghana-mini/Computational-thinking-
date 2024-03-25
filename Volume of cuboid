@@ -1,0 +1,6 @@
+function volume_of_cuboid(len, wid,hei){
+         let volume=len*wid*hei;
+         return volume;
+}
+let res=volume_of_cuboid(4,5,6);
+console.log(res);
